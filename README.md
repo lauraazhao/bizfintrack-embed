@@ -4,6 +4,6 @@ An animated product demo of BizFinTrack's Cash Flow page (scenario modeling), bu
 
 Live page: https://lauraazhao.github.io/bizfintrack-embed/
 
-Embed it with an iframe or a Framer Embed (URL) at a 1440 × 1024 aspect ratio; below 720px wide it switches to a phone layout.
+Embed it with an iframe or a Framer Embed (URL) at a 1440 × 1024 aspect ratio. It always shows the desktop design, scaled to the frame.
 
 Aeonik Pro fonts made from [Web Fonts](http://www.onlinewebfonts.com), licensed by CC BY 4.0.
